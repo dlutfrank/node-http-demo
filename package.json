@@ -1,0 +1,27 @@
+{
+  "name": "http-demo",
+  "version": "1.0.0",
+  "description": "http demo",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dlutfrank/node-http-demo.git"
+  },
+  "keywords": [
+    "node",
+    "http",
+    "demo"
+  ],
+  "author": "swx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dlutfrank/node-http-demo/issues"
+  },
+  "homepage": "https://github.com/dlutfrank/node-http-demo#readme",
+  "devDependencies": {
+    "nodemon": "^1.17.3"
+  }
+}
